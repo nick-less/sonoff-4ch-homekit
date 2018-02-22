@@ -1,4 +1,4 @@
-PROGRAM = sonoff_basic
+PROGRAM = sonoff_4ch
 
 EXTRA_COMPONENTS = \
 	extras/http-parser \
