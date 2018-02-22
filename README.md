@@ -5,4 +5,4 @@ this is the esp-home-demo example from (https://github.com/maximkulkin/esp-homek
 
 When first run its starts as an AP named "sonoff-4ch", which lets you join your wifi network.
 
-[firmware](src/firmware/sonoff_4ch.bin)
+the [firmware](src/firmware/sonoff_4ch.bin) needs to be flashed to 0x4000, rboot is required (see flash.sh)
